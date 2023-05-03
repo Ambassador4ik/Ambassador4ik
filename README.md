@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome to my Github Profile!
 
-<!--
-**Ambassador4ik/Ambassador4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Intro
+50% DevOps + 50% Sleep = Me
+I'm still standing (yeah, yeah, yeah)
+I'm still standing (yeah, yeah, yeah)
+## Contact
+You can contact me via [telegram](https://ambassador4ik.t.me/) or [discord](https://discordapp.com/users/655474013686202428). 
+Please do not contact me via email without special necessity.
+## My Skills
+##### Languages
+![Languages](https://skillicons.dev/icons?i=cs,cpp,go,py,java,js,kotlin&theme=light)
+##### Cloud
+![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,&theme=light)
+##### Tools
+![Tools](https://skillicons.dev/icons?i=docker,k8s,git,github,gitlab,cmake,gradle&theme=light)
+##### Other
+![Other](https://skillicons.dev/icons?i=bash,powershell,vim,md,nodejs,mysql,selenium,dotnet,linux&theme=light)
