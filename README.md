@@ -1,11 +1,11 @@
 # Welcome to my Github Profile!
 
 ## Intro
-50% DevOps + 50% Sleep = Me
-I'm still standing (yeah, yeah, yeah)
-I'm still standing (yeah, yeah, yeah)
+50% DevOps + 50% Sleep = Me\
+I'm still standing (yeah, yeah, yeah)\
+I'm still standing (yeah, yeah, yeah)\
 ## Contact
-You can contact me via [telegram](https://ambassador4ik.t.me/) or [discord](https://discordapp.com/users/655474013686202428). 
+You can contact me via [telegram](https://ambassador4ik.t.me/) or [discord](https://discordapp.com/users/655474013686202428).\
 Please do not contact me via email without special necessity.
 ## My Skills
 ##### Languages
