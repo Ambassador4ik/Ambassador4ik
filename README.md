@@ -1,7 +1,7 @@
 # Welcome to my Github Profile!
 
 ## Intro
-50% DevOps + 50% Sleep = Me\
+Beginner DevOps Engineer\
 I'm still standing (yeah, yeah, yeah)\
 I'm still standing (yeah, yeah, yeah)
 ## Contact
