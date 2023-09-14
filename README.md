@@ -1,7 +1,6 @@
 # Welcome to my Github Profile!
 
 ## Intro
-Beginner DevOps Engineer\
 I'm still standing (yeah, yeah, yeah)\
 I'm still standing (yeah, yeah, yeah)
 ## Contact
