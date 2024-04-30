@@ -8,7 +8,7 @@ You can contact me via [telegram](https://ambassador4ik.t.me/) or [discord](http
 Please do not contact me via email without special necessity.
 ## My Skills
 ##### Languages
-![Languages](https://skillicons.dev/icons?i=cs,cpp,go,py,java,js,kotlin&theme=light)
+![Languages](https://skillicons.dev/icons?i=ts,cs,cpp,go,py,java,js,kotlin&theme=light)
 ##### Cloud
 ![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,&theme=light)
 ##### Tools
