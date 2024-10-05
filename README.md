@@ -1,17 +1,36 @@
-# Welcome to my Github Profile!
+$$\zeta(s) = 2^s \pi^{s-1} \sin\left(\frac{\pi s}{2}\right) \Gamma(1 - s) \zeta(1 - s)$$
 
-## Intro
-I'm still standing (yeah, yeah, yeah)\
-I'm still standing (yeah, yeah, yeah)
-## Contact
-You can contact me via [telegram](https://ambassador4ik.t.me/) or [discord](https://discordapp.com/users/655474013686202428).\
-Please do not contact me via email without special necessity.
-## My Skills
-##### Languages
-![Languages](https://skillicons.dev/icons?i=ts,cs,cpp,go,py,java,js,kotlin&theme=light)
-##### Cloud
-![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,&theme=light)
-##### Tools
-![Tools](https://skillicons.dev/icons?i=docker,k8s,git,github,gitlab,cmake,gradle&theme=light)
-##### Other
-![Other](https://skillicons.dev/icons?i=bash,powershell,vim,md,nodejs,mysql,selenium,dotnet,linux&theme=light)
+<div align="center">
+<h3>Ambassador4ik</h3>
+
+*born to sleep, forced to code*
+
+*love:* metalcore, opensuse, linear algebra, rainy days <br>
+*hate:* people, hypocrisy, stupidity <br>
+<br>
+
+<div align="center">you know, I could probably do this 10 times better than you</div>
+<div align="end"> 
+... but I won't even bother &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<div align="center">you know, your thoughts on this may be quite valuable and all</div>
+<div align="end"> 
+... but I didn't even listen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<div align="center">you know, we could make a great team if we ever had a chance to meet</div>
+<div align="end"> 
+... good thing I'd been doomscrolling &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</div>
+
+<br>
+<br>
+
+`*this repository is free from bullshit & code boasting*`
+<br>
+<br>
+
+still wanna contact me?<br>
+[ds](https://discordapp.com/users/655474013686202428) | [tg](https://ambassador4ik.t.me/) 
+</div>
+
+
