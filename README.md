@@ -1,4 +1,7 @@
-$$\zeta(s) = 2^s \pi^{s-1} \sin\left(\frac{\pi s}{2}\right) \Gamma(1 - s) \zeta(1 - s)$$
+$$R$$
+$$R: I \subseteq R $$
+$$\forall a,b \in I, a + b \in I $$
+$$\forall r \in R, \forall a \in I,\,\, r \cdot a \in I,\,\, a \cdot r \in I$$
 
 <div align="center">
 <h3>Ambassador4ik</h3>
